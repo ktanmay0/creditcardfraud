@@ -11,3 +11,5 @@ NumPy
 Scikit-learn
 Matplotlib
 Pandas
+seaborn 
+pylab 
