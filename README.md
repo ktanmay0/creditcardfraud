@@ -8,6 +8,6 @@ Used Support vector machine , decision tree , isolation forest and k-nearest nei
 
 Module used:
 NumPy
-scikit-learn
-matplotlib
+Scikit-learn
+Matplotlib
 Pandas
