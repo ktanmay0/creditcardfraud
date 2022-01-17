@@ -5,3 +5,9 @@ Many banks, retaining high profitable customers is the number one business goal.
 
 Took dataset from kaggle https://www.kaggle.com/mlg-ulb/creditcardfraud , cleaned the whole dataset , removed all the duplicate values .
 Used Support vector machine , decision tree , isolation forest and k-nearest neighbour to detect the frudulent transaction . 
+
+Module used:
+NumPy
+scikit-learn
+matplotlib
+Pandas
